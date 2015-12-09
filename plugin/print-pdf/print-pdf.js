@@ -43,6 +43,5 @@ page.open( inputFile, function( status ) {
 		console.log( 'Printed succesfully' );
 		page.render( outputFile );
 		phantom.exit();
-	}, 1000 );
+	}, 9000 );
 } );
-

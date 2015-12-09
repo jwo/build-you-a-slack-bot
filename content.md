@@ -101,7 +101,7 @@ Choose New Bot
 ---
 ## Hiiiiiiii World
 
-![img](/img/rubybot-hi.gif)
+![img](/img/rubybot-hi-static.png)
 
 ---
 ## Hiiiiiiii World
@@ -126,7 +126,7 @@ RubyBot::App.instance.run
 ---
 ## Wolfram Alpha
 
-![img](/img/rubybot-wolfram.gif)
+![img](/img/rubybot-wolfram-static.png)
 
 ---
 
@@ -152,7 +152,7 @@ class WolframSearch < SlackRubyBot::Commands::Base
 
 Scraping Sites works very well.
 
-![img](/img/rubybot-image.gif)
+![img](/img/rubybot-image-static.png)
 
 
 ---
@@ -191,7 +191,7 @@ end
 ---
 ### Insults are Funny
 
-![img](/img/rubybot-insult.gif)
+![img](/img/rubybot-insult-static.png)
 
 ---
 ### Insults are Funny
@@ -212,12 +212,7 @@ end
 
 ---
 ## Screenshot of pages
-
----
-<div class="wistia_responsive_padding" style="padding:73.54% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/rd4sgbb9p9?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
-<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
-
-(or [gif](/img/rubybot-screenshot.gif))
+![gif](/img/rubybot-screenshot-static.png)
 
 ---
 
