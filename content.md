@@ -8,30 +8,25 @@
 ---
 ## Is Slack being used on the reg?
 
-![slack](/img/slack.png)
+* 34 out of 35 Ruby devs at HoustonRB used it
+* Only 10 moved from a previous chat program to Slack
 
 ---
+## Slack Growth
 
 ![usage](/img/slack-growth.jpg)
-
 ---
 ## Slack is replacing email
-
 ---
 ## Slack is replacing texts
-
 ---
 ## Slack is replacing IRC
-
 ---
 ## Zapier
 ### You can Send everything to slack
 ---
-
 Twitter Mentions to Slack
-
 ![img](/img/slack-twitter.png)
-
 ---
 
 ### other ideas
